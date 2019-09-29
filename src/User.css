@@ -1,0 +1,9 @@
+body{
+    background: purple;
+    transition: all 1s;
+}
+
+.user form{    /* scopes this style for divs with classname user like the on in user.js */
+    background: #fff;
+    padding: 20px;
+}
